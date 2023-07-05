@@ -25,8 +25,7 @@ Dotor Booking App UI made with Flutter, Hosted on Codemagic. Don't forget to sta
 >
 > - [PayPal](https://paypal.me/iamsanskartiwari) -->
 
-<!-- You can also nominate me for Github Star developer program
-> https://stars.github.com/nominate-->
+<!-- You can also nominate me for Github Star developer program https://stars.github.com/nominate-->
 
 
 ### License
